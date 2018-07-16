@@ -36,7 +36,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "is-absolute": "^0.2.6",
+    "is-absolute": "^1.0.0",
     "mkdirp": "~0.5.1"
   },
   "devDependencies": {
